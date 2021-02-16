@@ -20,7 +20,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="flixwalkthrough.gif" title="video walkthrough" width="" alt="Video Walkthrough"><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+I had a hard time grasping hetergenous recycler views since return types and relations had to be changed. My program also doesn't pause long enough even with the degraded network for the placeholder image to show for more than a split second. It still shows, but it's quickly gone. The image is an hourglass. 
 
 ### Open-source libraries used
 
