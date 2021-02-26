@@ -16,12 +16,11 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [x] (2pts) For popular movies (i.e. a movie voted for more than 5 stars), the full backdrop image is displayed. Otherwise, a poster image, the movie title, and overview is listed. Use Heterogenous RecyclerViews and use different ViewHolder layout files for popular movies and less popular ones.
 
 ### App Walkthough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="YOUR_GIF_URL_HERE" width=250><br>
+<img src="flixwalkthrough.gif" title="video walkthrough" width="" alt="Video Walkthrough"><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+I had a hard time grasping hetergenous recycler views since return types and relations had to be changed. My program also doesn't pause long enough even with the degraded network for the placeholder image to show for more than a split second. It still shows, but it's quickly gone. The image is an hourglass. 
 
 ### Open-source libraries used
 
